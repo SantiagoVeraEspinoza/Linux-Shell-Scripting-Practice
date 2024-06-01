@@ -1,0 +1,4 @@
+1,0K	tests/script2/subdir1/subdir1.1
+1,0K	tests/script2/subdir2
+3,0K	tests/script2/subdir1
+6,0K	tests/script2
